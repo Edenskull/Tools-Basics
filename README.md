@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://github.com/Edenskull/Tools-Basics/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Edenskull/Tools-Basics.svg"/></a>
   <a href="https://github.com/Edenskull/Tools-Basics/issues"><img src="https://img.shields.io/github/issues/Edenskull/Tools-Basics.svg"/></a>
-  <a href="https://github.com/Edenskull/Tools-Basics/releases"><img alt="undefined" src="https://img.shields.io/github/release/edenskull/Tools-Basics.svg"></a>
 </p>
 
 ---
